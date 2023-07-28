@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(97, 231, 238);
+  }
+  
+  .container {
+    
+   
+    padding: 20px; 
+    border-radius: 8px; 
+    background-color: white; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+ 
+  
+  form {
+   
+    margin: 10px 10px;
+    width: 100%; 
+  }
+  
+  label {
+    margin: 10px 10px;
+  }
+  
+  input {
+    padding: 5px;
+    margin: 10px 10px;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+    margin: 10px 10px;
+    width: 60%;
+    background-color: rgb(97, 231, 238);
+    border: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: blue;
+  }
